@@ -6,7 +6,7 @@ from threading import Thread
 import datetime
 
 PORT = 5050
-SERVER = "10.10.54.50"
+SERVER = "localhost"
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
 DISCONNECT_MESSAGE = "!DISCONNECT"
